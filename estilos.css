@@ -1,0 +1,29 @@
+body{
+    background-color: #F9F9FB;
+}
+img {
+    width: 50px;
+    height: 50px;
+    
+}
+.Notificacion{
+    margin: 300px 200px;
+    padding: 30px;
+    width: 300px;
+    height: 300px;
+    background-color: white;
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+}
+.tamañonotificacion{
+    font-size: 25px;
+}
+.boton{
+    background-color: #588BDA;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    border: 1px solid #588BDA;
+    border-radius: 5px;
+    padding-bottom: 17px;
+}
